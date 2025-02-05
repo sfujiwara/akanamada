@@ -1,6 +1,6 @@
 # Bandit
 
-GO implementations of BANdit algorithms.
+Multi-armed bandit algorithms.
 
 ## Basic Usage
 
