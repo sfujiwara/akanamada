@@ -37,5 +37,4 @@ func ExampleUpperConfidenceBound() {
 	// Arm: 2 Trial: 100 Mean: 2.120
 	// Arm: 3 Trial: 100 Mean: 3.109
 	// Arm: 4 Trial: 99600 Mean: 4.003
-
 }
